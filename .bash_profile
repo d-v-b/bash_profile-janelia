@@ -30,12 +30,6 @@ export PYTHON_OPTS_DRIVER='jupyter'
 export PYTHON_OPTS_DRIVER_PYTHON='lab'
 export PYTHONHASHSEED=0
 
-export PYTHONPATH=/groups/ahrens/home/bennettd/fish_processing/:$PYTHONPATH
-export PYTHONPATH=/groups/ahrens/home/bennettd/thunder/:$PYTHONPATH
-export PYTHONPATH=/groups/ahrens/home/bennettd/thunder-factorization/:$PYTHONPATH
-export PYTHONPATH=/groups/ahrens/home/bennettd/thunder-extraction/:$PYTHONPATH
-export PYTHONPATH=/groups/ahrens/home/bennettd/thunder-regression/:$PYTHONPATH
-export PYTHONPATH=/groups/ahrens/home/bennettd/bolt/:$PYTHONPATH
 export PYTHONPATH=/groups/ahrens/home/bennettd/fish/:$PYTHONPATH
 export PYTHONPATH=/groups/ahrens/home/bennettd/fishtrack/:$PYTHONPATH
 export GIT_EDITOR=emacs
